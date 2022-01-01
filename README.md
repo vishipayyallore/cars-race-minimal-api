@@ -1,2 +1,2 @@
-# cars-race-minimal-api
+# vehicle-race-minimal-api
 Simple Minimal Web API in .NET 6
